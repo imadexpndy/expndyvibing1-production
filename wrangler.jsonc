@@ -170,7 +170,7 @@
             "version": "1.0.0"
         },
         "CUSTOM_DOMAIN": "vibing.expndy.com",
-        "MAX_SANDBOX_INSTANCES": "10",
+        "MAX_SANDBOX_INSTANCES": "1",
         "SANDBOX_INSTANCE_TYPE": "standard-3"
     },
 	"workers_dev": false,
